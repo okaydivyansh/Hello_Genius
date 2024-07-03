@@ -4,6 +4,7 @@
 
 
 This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe 
+![image](https://github.com/okaydivyansh/Hello_Genius/assets/94864199/e2607851-e7b9-4267-b578-ae103fef42b3)
 
 
 Features:
